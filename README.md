@@ -25,8 +25,6 @@
 <h3> after using our ml model on Pune we find the best Hotspots for our warehouse</h3>
 
 ![Hotspots](https://github.com/Bit-Bard/Cyber-Flame-/blob/main/Hackron/Graph_created_through_data/ML_model_prediction.jpg)
-<ul>Advantages through this:</ul>
-<li></li>
 
 <ul>Why these warehouse location are recommended ?</ul>
 <li>Cost Effecient
