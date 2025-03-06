@@ -35,6 +35,7 @@
 <p>As per the number of Population Density increases numbers of warehouse also increase due to their demands which help us to manage <b>Traffic, Availability, Time-Reduction</p>
 <P>If a rehgion comes under Green zone(low-density) the number of clusters increases so that the diameter of a Particular warehouse increases which help us in<b>Cost Reduction</b>Reason: we will not include that much of warehouse which is not needed in a low-density region</P>
 
+[Trends ability](https://gleeful-dodol-38f60b.netlify.app/)
 
 
 
