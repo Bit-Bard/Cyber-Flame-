@@ -2,7 +2,11 @@
 
 
 <b>Website_1</b> [Dark store Analytics](https://remarkable-baklava-216e9b.netlify.app/)
+<p>Website_1 shows the solution of the challenges we are facing such as <b>Demand forecasting, Geospatial Optimization, Oprational challenges, real-time insights </b>etc </p>
+
 <b>Website_2</b> [Trends ability](https://gleeful-dodol-38f60b.netlify.app/)
+<p>WEbsite_2 shows number of active Dark stores near social events and Busy Places in Pune, which helps during festive seasons and social trends to deliver faster in less cost </p>
+
 
 <ul>Problems we Solved : </ul>
 <li>Proper Geographical analysis </li>
