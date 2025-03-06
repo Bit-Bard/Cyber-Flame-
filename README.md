@@ -24,6 +24,8 @@
 <h2>Code is available on <b>Code</b>folder</h2>
 <h3> after using our ml model on Pune we find the best Hotspots for our warehouse</h3>
 
+![Hotspots](https://github.com/Bit-Bard/Cyber-Flame-/blob/main/Hackron/Graph_created_through_data/ML_model_prediction.jpg)
+
 importancae of this graph like traffic clustering 
 
 
