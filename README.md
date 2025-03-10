@@ -9,12 +9,12 @@
 
 
 <ul>Problems we Solved : </ul>
-<li>Proper Geographical analysis </li>
-<li>well sufficient for highly population Density </li>
-<li>Sufficient to Tackle Traffic issue </li>
-<li>Cost management</li>
-<li>Social events handling for timeless service</li>
-<li>Demand Forcasting</li>
+  <li>Proper Geographical analysis </li>
+  <li>well sufficient for highly population Density </li>
+  <li>Sufficient to Tackle Traffic issue </li>
+  <li>Cost management</li>
+  <li>Social events handling for timeless service</li>
+  <li>Demand Forcasting</li>
 
 <h2>What we did ?</h2>
 <p>Collected Data and Research paper from various source and carry out a detail Data-Analysis which help us to go indepp of problem statement</p>
